@@ -1,0 +1,72 @@
+* {
+    box-sizing: border-box;
+    
+    }
+    
+    .jumbotron {
+   
+    }
+    
+    #sched-header {
+    color:orangered;
+    background:black;
+    padding:15px;
+    font-size: 30px;
+    margin: 0px;
+    
+    
+    }
+    
+    .card-body {
+        margin: 10px; 
+    }
+    
+    #submit {
+        margin-right:200px;
+        float:right;
+        background:black;
+        color:orangered;
+    }
+    
+    hr {
+        margin:0px;
+        width: 3px;
+    }
+    
+    #inputForm {
+        margin-top: 15px;
+    }
+    
+    #trainLabel {
+        margin-top:15px;
+    }
+    #card-header,
+    .form-group {
+        font-weight: bold;
+    }
+    
+    #cardTrain{
+        margin-left: 15px;
+    }
+    
+    .del-btn {
+        float:right;
+        background:black;
+        color:orangered; 
+    }
+    
+    .float-left {
+        float: left;
+        background:black;
+    }
+    
+    .float-right {
+        float: right;
+        background:black;
+        padding:20px;
+        font-size: 20px;
+    }
+    .card-head {
+        background:black;
+        color:orangered; 
+    }
