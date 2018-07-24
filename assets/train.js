@@ -1,17 +1,13 @@
-
-// <script src="https://www.gstatic.com/firebasejs/5.3.0/firebase.js"></script>
-// <script>
-//   // Initialize Firebase
-//   var config = {
-//     apiKey: "AIzaSyDr2OG4jV2_nV14cEayOquZTErGboEqjro",
-//     authDomain: "laceytrainscheduler.firebaseapp.com",
-//     databaseURL: "https://laceytrainscheduler.firebaseio.com",
-//     projectId: "laceytrainscheduler",
-//     storageBucket: "laceytrainscheduler.appspot.com",
-//     messagingSenderId: "636654410059"
-//   };
-//   firebase.initializeApp(config);
-// </script>
+  // Initialize Firebase
+  var config = {
+    apiKey: "AIzaSyDr2OG4jV2_nV14cEayOquZTErGboEqjro",
+    authDomain: "laceytrainscheduler.firebaseapp.com",
+    databaseURL: "https://laceytrainscheduler.firebaseio.com",
+    projectId: "laceytrainscheduler",
+    storageBucket: "laceytrainscheduler.appspot.com",
+    messagingSenderId: "636654410059"
+  };
+  firebase.initializeApp(config);
 
 const database = firebase.database();
  
